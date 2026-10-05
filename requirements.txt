@@ -1,0 +1,4 @@
+python-telegram-bot>=21.6,<23
+aiosqlite>=0.20
+python-dotenv>=1.0
+tzdata
